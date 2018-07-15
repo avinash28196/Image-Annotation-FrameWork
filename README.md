@@ -13,4 +13,13 @@ Vision is the richest sense that a human being has which computer does not have 
 
 Image annotation is a complex job of detecting objects and classifying each ob- jects in a given image. Even though the process is extremely useful in some cases, the complexity of the process limits many novice developers from using image annotation and object detection in their projects. So we are developing a user friendly framework that will do simplest of the image annotation tasks and help novice developers in their projects that might need object detection and classification.
 
+## Proposed Model
+
+Here we have used MatLab Computer Vision toolbox which is efficient and faster than OpenCV. Objective is, we are trying to extract feature from an image and annotate them with appropriate tags for the object present in them. We extracted features and classify the image using AlexNet ( A pre-trained convolutional Neural Network) which uses SIFT(Scale-invariant feature transform) which is advanced method than ORB and SURF, which helps in reducing noise. And also it uses dropout technique to selectively ignore single neurons during training avoiding the averaging effects of average pooling. Benefits of proposed work are:
+
+1. Firstly, language selection is very important, MatLab is very efficient in terms of space and time.
+2. Secondly, we used AlexNet which is one of top most ImageNet Classification in the field of neural Network
+
+### System Architecture
+
 
