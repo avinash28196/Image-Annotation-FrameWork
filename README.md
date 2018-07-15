@@ -20,6 +20,16 @@ Here we have used MatLab Computer Vision toolbox which is efficient and faster t
 1. Firstly, language selection is very important, MatLab is very efficient in terms of space and time.
 2. Secondly, we used AlexNet which is one of top most ImageNet Classification in the field of neural Network
 
-### System Architecture
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/System%20Architecture.png)
+
+### Processing of Image
+
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/PreProcessing.png)
+
+### Object detection 
+
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/Object%20detection%20and%20segmentation.png)
+
+
 
 
