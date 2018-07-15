@@ -31,5 +31,28 @@ Here we have used MatLab Computer Vision toolbox which is efficient and faster t
 ![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/Object%20detection%20and%20segmentation.png)
 
 
+## The Image Annotation FrameWork.
+
+This area portrays the outcomes got after the execution of actualized re- enactment. The accompanying screen shots characterize the outcomes or yields that are got after orderly execution of all modules of the framework.
+This Framework will ask the user to input a image from the folder to annotate the image either by selecting manual mode or Auto mode or user can detect the live object from the web cam feed.
+
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/1.PNG)
 
 
+The user interface in the below consists load image,which is used to load the image from the folder. Option for manual annotation,automatic annotation, and also live object detection using webcam.
+User Can upload the image by clicking the load image button,and select option from below to annotate the image.
+
+
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/2.jpg)
+
+Annotation can be done in two ways either manually dragging box over the image to find the objects or click automatic button to auto annotate the image.
+
+![image](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/ScreenShot/3.jpg)
+
+## Conclusion.
+
+Here a novel framework is proposed for annotating the images using ImageNet as Dataset. For every image in the dataset, Annotations are produced and are displayed. When we input an image, it will be segmented to detect objects by Image Retrieval Algorithm Based on Convolutional Neural Network. And the input image is compared to correctness of the objects detected.The proposed method gives us a robust methodology for extracting different object of images at low time complexity.We have tested our result with other methods such ”Image Classification with Bag of Visual Words” which uses K means clustering technique to classify the image which takes lot of time and space. Our proposed method takes comparatively less time than the other method to detect an object in the image.This mechanism can be used for various purposes in the field of Object detection.
+
+## Future Work
+
+Future work to improve the accuracy of the system can take many directions. First, the incorporation of 3-D information in the learning process may improve the models, perhaps through learning via stereo images or 3-D images. Addition- ally, shape information can be utilized to improve the modeling process. Second, better and larger amounts of training images per semantic concept may produce more robust models. Contextual information may also help in the modeling and annotation process. Third, this method holds promise for various application do- mains, including bio-medicine. Finally, the system can be integrated with other retrieval methods to improve usability in the field of computer vision.
