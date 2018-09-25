@@ -15,7 +15,7 @@ Image annotation is a complex job of detecting objects and classifying each ob- 
 
 ## Proposed Model
 
-Here we have used MatLab Computer Vision toolbox which is efficient and faster than OpenCV. Objective is, we are trying to extract feature from an image and annotate them with appropriate tags for the object present in them. We extracted features and classify the image using AlexNet ( A pre-trained convolutional Neural Network) which uses SIFT(Scale-invariant feature transform) which is advanced method than ORB and SURF, which helps in reducing noise. And also it uses dropout technique to selectively ignore single neurons during training avoiding the averaging effects of average pooling. Benefits of proposed work are:
+Here we have used MatLab Computer Vision toolbox which is efficient and faster than OpenCV. Objective is, we are trying to extract feature from an image and annotate them with appropriate tags for the object present in them. We extracted features and classify the image using [AlexNet](https://es.mathworks.com/matlabcentral/fileexchange/59133-deep-learning-toolbox-model-for-alexnet-network) ( A pre-trained convolutional Neural Network) which uses SIFT(Scale-invariant feature transform) which is advanced method than ORB and SURF, which helps in reducing noise. And also it uses dropout technique to selectively ignore single neurons during training avoiding the averaging effects of average pooling. Benefits of proposed work are:
 
 1. Firstly, language selection is very important, MatLab is very efficient in terms of space and time.
 2. Secondly, we used AlexNet which is one of top most ImageNet Classification in the field of neural Network
