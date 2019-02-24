@@ -56,3 +56,5 @@ Here a novel framework is proposed for annotating the images using ImageNet as D
 ## Future Work
 
 Future work to improve the accuracy of the system can take many directions. First, the incorporation of 3-D information in the learning process may improve the models, perhaps through learning via stereo images or 3-D images. Addition- ally, shape information can be utilized to improve the modeling process. Second, better and larger amounts of training images per semantic concept may produce more robust models. Contextual information may also help in the modeling and annotation process. Third, this method holds promise for various application do- mains, including bio-medicine. Finally, the system can be integrated with other retrieval methods to improve usability in the field of computer vision.
+
+[PDF](https://github.com/avinash28196/Image-Annotation-FrameWork/blob/master/Image%20Annotation%20Framework%20Report.pdf)
